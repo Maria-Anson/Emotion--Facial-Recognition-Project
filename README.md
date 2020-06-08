@@ -18,6 +18,7 @@
 ## Display output
   Use the **camera.py**
   It has the required opencv operations for displaying the video with our required annonations
+  In the video directory use your directory to locate your video to which you want output or you can use the "0" option to select your webcamera
   
 ## Final Flask integration
   Use the **main.py**
